@@ -1,5 +1,5 @@
 <header align="center">
-	<h1> Welcome to my GitHub Profile 😊 </h1>
+	<h1 align="center"> Welcome to my GitHub Profile 😊 </h1>
 	<div align="center">
 		<img
 			src="assets/banner.gif"
@@ -43,7 +43,6 @@
 		<img
 			src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629"
 			alt="HTML5" />
-		/>
 		<img
 			src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c"
 			alt="JavaScript" />
@@ -53,7 +52,7 @@
 		<img
 			src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe"
 			alt="React" />
-		<im
+		<img
 			src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7"
 			alt="TypeScript" />
 	</div>
@@ -100,6 +99,9 @@
 <section align="center">
 	<h3>🖥️Database</h3>
 	<div>
+		<img
+			src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=MSQL&svgfill=336791"
+			alt="MSSQL" />
 		<img
 			src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postgreSQL&svgfill=336791"
 			alt="PostgreSQL" />

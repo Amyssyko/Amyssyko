@@ -1,38 +1,31 @@
 <header align="center">
-	<h1> Welcome to my GitHub Profile 😊 </h1>
+	<h1 align="center"> Welcome to my GitHub Profile 😊 </h1>
 	<div align="center">
 		<img
 			src="assets/banner.gif"
-			width="100%"
+			width="70%"
 			alt="Banner" />
 		<picture>
 			<source
 				media="(prefers-color-scheme: dark)"
-				srcset="
-					https://readme-typing-svg.demolab.com?font=Noto+Sans+Mono&weight=600&pause=1000&color=F747CAFF&center=true&vCenter=true&width=435&lines=I'm+a+Software+Developer
-				" />
-			<img
-				src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Mono&weight=600&pause=1000&color=56F79A&center=true&vCenter=true&width=435&lines=I'm+a+Software+Developer"
-				alt="presentation text" />
+				srcset="https://readme-typing-svg.demolab.com?font=Noto+Sans+Mono&weight=600&pause=1000&color=F747CAFF&center=true&vCenter=true&width=435&lines=I'm+a+Software+Developer" />
+		</picture>
+		<img
+			src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=434343FF&center=true&vCenter=true&repeat=false&width=435&lines=Hey+there"
+			alt="greeting" />
+		<picture>
+			<source
+				media="(prefers-color-scheme: dark)"
+				srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=FFFFFFFF&center=true&vCenter=true&repeat=false&width=435&lines=Hey+there" />
 		</picture>
 	</div>
 </header>
+<main>
 
 <section>
 	<h2 align="center">👦🏻 About Me</h2>
 	<p align="left">
-		<strong>Information Systems Engineer</strong> from Ecuador with experience
-		in web and mobile application development in both
-		<strong>Frontend and Backend</strong>, I am passionate about technology such
-		as software and hardware, writing code while listening to relaxing music, I
-		have created several personal and external projects. I love learning and
-		creating new innovations that are trending. With more than
-		<strong>three years dedicated to application development</strong>, I offer a
-		solid technical background and a comprehensive approach to each project. My
-		ability to merge visual design with state-of-the-art technology allows me to
-		develop complex applications, minimalistic and sophisticated websites. If
-		you need a developer committed to deliver excellence in every detail, I am
-		ready to bring your ideas to reality.
+		<strong> Systems Engineer and Data Governance </strong>, writing code while listening to relaxing music, and <strong>Taylor Swift</strong>.
 	</p>
 </section>
 
@@ -41,21 +34,8 @@
 	<h3>📑Languages</h3>
 	<div>
 		<img
-			src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629"
-			alt="HTML5" />
-		/>
-		<img
-			src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c"
-			alt="JavaScript" />
-		<img
-			src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1"
-			alt="CSS3" />
-		<img
-			src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe"
-			alt="React" />
-		<im
-			src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7"
-			alt="TypeScript" />
+			src="https://skillicons.dev/icons?i=ts,html,css,dart,python"
+			alt="Languages" />
 	</div>
 </section>
 
@@ -63,17 +43,8 @@
 	<h3>⚙️Frameworks</h3>
 	<div>
 		<img
-			src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60"
-			alt="Node.js" />
-		<img
-			src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=next.JS&svgfill=ffffff"
-			alt="Next.js" />
-		<img
-			src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Flutter&svgfill=46d8ff"
-			alt="Flutter" />
-		<img
-			src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwindCSS&svgfill=38bdf8"
-			alt="TailwindCSS" />
+			src="https://skillicons.dev/icons?i=nextjs,flutter,astro,tailwindcss,django"
+			alt="Frameworks" />
 	</div>
 </section>
 
@@ -81,19 +52,8 @@
 	<h3>💻Software</h3>
 	<div>
 		<img
-			src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=visual+studio+code&svgfill=219fdf"
-			alt="Visual Studio Code" />
-		<img
-			src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=android+studio&svgfill=3e7de6"
-			alt="Android Studio" />
-		<img
-			src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=arduino"
-			alt="Arduino" />
-		<img
-			src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git"
-			alt="Git" />
-		<img
-			src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github" />
+			src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,arduino,git,github"
+			alt="Software & Tools" />
 	</div>
 </section>
 
@@ -101,14 +61,8 @@
 	<h3>🖥️Database</h3>
 	<div>
 		<img
-			src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postgreSQL&svgfill=336791"
-			alt="PostgreSQL" />
-		<img
-			src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=SQLite&svgfill=58afe0"
-			alt="SQLite" />
-		<img
-			src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=MySQL&svgfill=336791"
-			alt="MySQL" />
+			src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite"
+			alt="Databases" />
 	</div>
 </section>
 
@@ -116,17 +70,8 @@
 	<h3>🔧Others</h3>
 	<div>
 		<img
-			src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=ed6f11"
-			alt="Firebase" />
-		<img
-			src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=NPM&svgfill=cb0000"
-			alt="NPM" />
-		<img
-			src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=linux"
-			alt="Linux" />
-		<img
-			src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=windows"
-			alt="Windows" />
+			src="https://skillicons.dev/icons?i=bun,npm,pnpm,linux,windows"
+			alt="Others" />
 	</div>
 </section>
 
@@ -154,3 +99,5 @@
 			alt="GitHub Contribution Stats" />
 	</div>
 </section>
+
+ </main>
